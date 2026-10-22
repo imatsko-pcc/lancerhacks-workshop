@@ -2,7 +2,7 @@
 (co-authored by Claude)
 Let's make some merge conflicts.
 
-## Add your name (no installs needed)
+Ilya: Fun fact are facts that are fun.
 
 1. Click **`attendees.md`** in the file list above
 2. Click the **pencil icon** (top right of the file)
@@ -23,9 +23,12 @@ That's it.
 - **Pull request:** "please merge my change into the main repo"
 - **Merge conflict:** two people changed the same lines, so a human picks what to keep
 
-## Before LancerHacks (Oct 30)
+
 
 - Make a [Devpost](https://devpost.com) account
 - Try [github.dev](https://github.dev): press `.` on any repo to code in your browser
 - Optional: install [VS Code](https://code.visualstudio.com) and [GitHub Desktop](https://desktop.github.com)
 - Join the LancerHacks Discord for announcements
+
+
+# LancerHacks Workshop I was here.
